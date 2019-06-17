@@ -1,0 +1,5 @@
+video/
+visual_logs/
+.idea/
+models/*
+sports1m_finetuning_ucf101.model
